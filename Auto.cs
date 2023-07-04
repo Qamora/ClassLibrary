@@ -18,6 +18,7 @@ namespace ClassLibrary
 			return Number.CompareTo(other.Number);
 		}
 
+		// Выводит информацию
 		public void Show()
 		{
 			Console.WriteLine("Автомобиль:\n"+
