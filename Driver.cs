@@ -15,6 +15,7 @@ namespace ClassLibrary
 			Class = class_;
         }
 
+        // Выводит информацию
 		public void ShowAll()
         {
             Console.Write("Водитель:\n"+
